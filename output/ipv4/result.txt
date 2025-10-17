@@ -1,68 +1,67 @@
 🕘️更新时间,#genre#
-2025-10-15 18:30:55,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
+2025-10-17 18:29:08,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
 
 📺央視頻道,#genre#
 CCTV-1,https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8$订阅源
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
+CCTV-2,http://112.46.85.60:8009/hls/502/index.m3u8$订阅源
+CCTV-4,http://171.15.18.199:8180/TV00000000000000000004@HHZT$订阅源
+CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT$订阅源
+CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT$订阅源
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$订阅源
-CCTV-7,http://zzssw01.55555.io:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
+CCTV-7,http://171.15.18.199:8180/TV00000000000000000007@HHZT$订阅源
 CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8$订阅源
+CCTV-8,http://171.15.18.199:8180/TV00000000000000000008@HHZT$订阅源
 CCTV-8,http://zzssw01.55555.io:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-9,http://pa.kuangdeng.top:8081/hls/9/index.m3u8$订阅源
+CCTV-9,http://171.15.18.199:8180/TV00000000000000000009@HHZT$订阅源
 CCTV-9,http://zzssw01.55555.io:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-10,http://php.cqshushu.ggff.net/jzb.php?id=cctv10&公众号【医工学习日志】$订阅源
-CCTV-10,http://pa.kuangdeng.top:8081/hls/10/index.m3u8$订阅源
+CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT$订阅源
 CCTV-10,http://zzssw01.55555.io:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-10,http://183.222.242.31:8088/hls/10/index.m3u8$订阅源
-CCTV-11,http://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/chunklist_w744036192_b1000000.m3u8$订阅源
 CCTV-11,http://php.cqshushu.ggff.net/jzb.php?id=cctv11&公众号【医工学习日志】$订阅源
-CCTV-11,http://112.132.10.54:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
-CCTV-11,http://60.16.0.216:5757/hls/12/index.m3u8$订阅源
-CCTV-11,http://pa.kuangdeng.top:8081/hls/11/index.m3u8$订阅源
+CCTV-11,http://171.15.18.199:8180/TV00000000000000000011@HHZT$订阅源
 CCTV-11,http://zzssw01.55555.io:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-11,http://183.222.242.31:8088/hls/11/index.m3u8$订阅源
-CCTV-11,http://ygbh.site/php/bfgd.php?id=130$订阅源
 CCTV-12,http://php.cqshushu.ggff.net/jzb.php?id=cctv12&公众号【医工学习日志】$订阅源
+CCTV-12,http://171.15.18.199:8180/TV00000000000000000012@HHZT$订阅源
 CCTV-12,http://60.16.0.216:5757/hls/13/index.m3u8$订阅源
-CCTV-12,http://pa.kuangdeng.top:8081/hls/12/index.m3u8$订阅源
 CCTV-12,http://zzssw01.55555.io:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-12,http://183.222.242.31:8088/hls/12/index.m3u8$订阅源
-CCTV-12,http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8$订阅源
 CCTV-12,http://ygbh.site/php/bfgd.php?id=131$订阅源
 CCTV-13,http://php.cqshushu.ggff.net/jzb.php?id=cctv13&公众号【医工学习日志】$订阅源
+CCTV-13,http://171.15.18.199:8180/TV00000000000000000013@HHZT$订阅源
+CCTV-13,http://106.53.99.30/tv/cctv13.php$订阅源
 CCTV-13,http://60.16.0.216:5757/hls/14/index.m3u8$订阅源
-CCTV-13,http://pa.kuangdeng.top:8081/hls/13/index.m3u8$订阅源
 CCTV-13,http://zzssw01.55555.io:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-13,http://183.222.242.31:8088/hls/13/index.m3u8$订阅源
 CCTV-13,http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8$订阅源
 CCTV-14,http://php.cqshushu.ggff.net/jzb.php?id=cctv14&公众号【医工学习日志】$订阅源
+CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT$订阅源
 CCTV-14,http://112.132.10.54:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-14,http://60.16.0.216:5757/hls/15/index.m3u8$订阅源
-CCTV-14,http://pa.kuangdeng.top:8081/hls/14/index.m3u8$订阅源
 CCTV-14,http://zzssw01.55555.io:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-14,http://183.222.242.31:8088/hls/14/index.m3u8$订阅源
 CCTV-14,http://ygbh.site/php/bfgd.php?id=132$订阅源
 CCTV-15,http://php.cqshushu.ggff.net/jzb.php?id=cctv15&公众号【医工学习日志】$订阅源
+CCTV-15,http://171.15.18.199:8180/TV00000000000000000015@HHZT$订阅源
 CCTV-15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-15,http://60.16.0.216:5757/hls/16/index.m3u8$订阅源
-CCTV-15,http://pa.kuangdeng.top:8081/hls/15/index.m3u8$订阅源
 CCTV-15,http://zzssw01.55555.io:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://183.222.242.31:8088/hls/15/index.m3u8$订阅源
+CCTV-15,http://lt.hxtre.com:35455/itv/1000000005000265014.m3u8?cdn=ystenlive$订阅源
 CCTV-15,http://ygbh.site/php/bfgd.php?id=133$订阅源
-CCTV-15,http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8$订阅源
 CCTV-16,http://drive.mxmy.net:8888/udp/239.3.1.184:8001$订阅源
 CCTV-16,https://60.191.56.186:8888/hls/16/index.m3u8$订阅源
 CCTV-16,http://61.149.251.202:4022/rtp/239.3.1.184:8001$订阅源
 CCTV-16,http://60.16.0.216:5757/hls/17/index.m3u8$订阅源
+CCTV-16,http://lt.hxtre.com:35455/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源
 CCTV-16,http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8$订阅源
-CCTV-17,http://222.169.85.8:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-17,http://61.149.251.202:4022/rtp/239.3.1.151:8144$订阅源
 CCTV-17,http://60.16.0.216:5757/hls/18/index.m3u8$订阅源
+CCTV-17,http://lt.hxtre.com:35455/itv/1000000006000268004.m3u8?cdn=ystenlive$订阅源
 CCTV-17,http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8$订阅源
 CETV-1,http://117.174.25.254:8188/rtp/239.0.0.51:5140$订阅源
-CETV-1,http://111.127.156.228:51234/rtp/239.29.0.95:5000$订阅源
 CETV-2,http://117.174.25.254:8188/rtp/239.0.0.196:5140$订阅源
-CETV-2,http://111.127.156.228:51234/rtp/239.29.0.139:5000$订阅源
 CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源
 CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140$订阅源
 
@@ -76,8 +75,8 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140$订阅源
 ☘️廣東頻道,#genre#
 
 ☘️浙江頻道,#genre#
-浙江生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8$订阅源
+浙江生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8$订阅源
 浙江生活,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8\r\n$订阅源
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
 浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
@@ -113,7 +112,6 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140$订阅源
 湖北生活,https://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8$订阅源
 
 ☘️天津頻道,#genre#
-津南一套,http://play.jinnantv.top/live/JNTV1.m3u8?ztianjd$订阅源
 津南一套,http://61.147.106.103/play.jinnantv.top/live/JNTV1.m3u8?ztianjd&wsSession=4e59297ef5846f4a7cf02eb3-172672213891355&wsIPSercert=6d426cba8b106cdec9147b1e2a9ace7c&wsiphost=local&wsBindIP=1$订阅源
 
 ☘️四川頻道,#genre#
@@ -132,8 +130,8 @@ CETV-4,http://117.174.25.254:8188/rtp/239.0.0.98:5140$订阅源
 
 ☘️河北頻道,#genre#
 河北都市,http://1.94.31.214/php/hebei.php?id=hbds$订阅源
-河北都市,http://php.fjl626.cn/hebei.php?id=hbds$订阅源
 河北都市,https://radio.pull.hebtv.com/live/hebnczx.m3u8$订阅源
+河北都市,http://php.fjl626.cn/hebei.php?id=hbds$订阅源
 
 ☘️甘肅頻道,#genre#
 
@@ -174,6 +172,7 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 🎥咪咕直播,#genre#
 
 🏀體育頻道,#genre#
+CCTV-5,http://171.15.18.199:8180/TV00000000000000000005@HHZT$订阅源
 
 🪁動畫頻道,#genre#
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
@@ -184,13 +183,13 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 
 🎵音樂頻道,#genre#
 CCTV-15,http://php.cqshushu.ggff.net/jzb.php?id=cctv15&公众号【医工学习日志】$订阅源
+CCTV-15,http://171.15.18.199:8180/TV00000000000000000015@HHZT$订阅源
 CCTV-15,http://112.132.10.54:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0$订阅源
 CCTV-15,http://60.16.0.216:5757/hls/16/index.m3u8$订阅源
-CCTV-15,http://pa.kuangdeng.top:8081/hls/15/index.m3u8$订阅源
 CCTV-15,http://zzssw01.55555.io:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-15,http://183.222.242.31:8088/hls/15/index.m3u8$订阅源
+CCTV-15,http://lt.hxtre.com:35455/itv/1000000005000265014.m3u8?cdn=ystenlive$订阅源
 CCTV-15,http://ygbh.site/php/bfgd.php?id=133$订阅源
-CCTV-15,http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8$订阅源
 
 🏛經典劇場,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750$订阅源
