@@ -1,103 +1,80 @@
 🕘️更新时间,#genre#
-2025-12-03 18:32:15,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
+2025-12-05 18:30:02,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 
 📺央視頻道,#genre#
 CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
-CCTV-4,http://113.57.93.165:9900/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-4,http://60.13.52.236:65500/newlive/live/hls/4/live.m3u8$订阅源
 CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8$订阅源
-CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-6,http://171.15.18.199:8180/TV00000000000000000006@HHZT$订阅源
-CCTV-6,http://218.3.138.25:1111/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-6,http://113.57.93.165:9900/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-6,http://61.136.172.236:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
+CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$订阅源
 CCTV-7,http://171.15.18.199:8180/TV00000000000000000007@HHZT$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
-CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$订阅源
-CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
-CCTV-7,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/.m3u8$订阅源
 CCTV-7,http://60.13.52.236:65500/newlive/live/hls/7/live.m3u8$订阅源
 CCTV-8,http://171.15.18.199:8180/TV00000000000000000008@HHZT$订阅源
 CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8$订阅源
-CCTV-8,http://120.40.39.246:352/newlive/live/hls/9/live.m3u8$订阅源
 CCTV-8,http://218.3.138.25:1111/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://113.57.93.165:9900/tsfile/live/0008_1.m3u8$订阅源
-CCTV-8,http://61.184.46.85:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-8,http://61.136.172.236:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-9,http://171.15.18.199:8180/TV00000000000000000009@HHZT$订阅源
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
-CCTV-9,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/.m3u8$订阅源
+CCTV-9,http://171.15.18.199:8180/TV00000000000000000009@HHZT$订阅源
 CCTV-9,http://120.40.39.246:352/newlive/live/hls/10/live.m3u8$订阅源
+CCTV-9,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/.m3u8$订阅源
 CCTV-9,http://60.13.52.236:65500/newlive/live/hls/9/live.m3u8$订阅源
-CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT$订阅源
-CCTV-10,http://112.6.239.227:8207/hls/11/index.m3u8$订阅源
 CCTV-10,http://183.220.107.138:4022/rtp/239.11.0.112:5140$订阅源
+CCTV-10,http://171.15.18.199:8180/TV00000000000000000010@HHZT$订阅源
 CCTV-10,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8$订阅源
 CCTV-10,http://60.13.52.236:65500/newlive/live/hls/10/live.m3u8$订阅源
+CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
 CCTV-11,http://171.15.18.199:8180/TV00000000000000000011@HHZT$订阅源
 CCTV-11,http://112.6.239.227:8207/hls/12/index.m3u8$订阅源
-CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
-CCTV-11,http://61.184.46.85:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 CCTV-11,http://60.13.52.236:65500/newlive/live/hls/11/live.m3u8$订阅源
 CCTV-11,http://61.136.172.236:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-12,http://171.15.18.199:8180/TV00000000000000000012@HHZT$订阅源
-CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
 CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140$订阅源
+CCTV-12,http://171.15.18.199:8180/TV00000000000000000012@HHZT$订阅源
 CCTV-12,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/.m3u8$订阅源
+CCTV-12,http://112.6.239.227:8207/hls/13/index.m3u8$订阅源
 CCTV-12,http://60.13.52.236:65500/newlive/live/hls/12/live.m3u8$订阅源
-CCTV-13,http://171.15.18.199:8180/TV00000000000000000013@HHZT$订阅源
-CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
+CCTV-13,http://171.15.18.199:8180/TV00000000000000000013@HHZT$订阅源
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002$订阅源
 CCTV-13,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226339/.m3u8$订阅源
+CCTV-13,http://112.6.239.227:8207/hls/14/index.m3u8$订阅源
 CCTV-13,http://60.13.52.236:65500/newlive/live/hls/13/live.m3u8$订阅源
 CCTV-13,http://61.136.172.236:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-14,http://1.24.39.180:9003/hls/14/index.m3u8$订阅源
-CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT$订阅源
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140$订阅源
-CCTV-14,http://183.238.86.52:4022/rtp/239.10.0.212:1025$订阅源
+CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT$订阅源
 CCTV-14,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226904/.m3u8$订阅源
 CCTV-14,http://60.13.52.236:65500/newlive/live/hls/14/live.m3u8$订阅源
 CCTV-14,http://61.136.172.236:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
+CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
 CCTV-15,http://1.24.39.180:9003/hls/15/index.m3u8$订阅源
 CCTV-15,http://171.15.18.199:8180/TV00000000000000000015@HHZT$订阅源
-CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
-CCTV-15,http://183.238.86.52:4022/rtp/239.11.0.25:1025$订阅源
 CCTV-15,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226910/.m3u8$订阅源
 CCTV-15,http://60.13.52.236:65500/newlive/live/hls/15/live.m3u8$订阅源
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
-CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/.m3u8$订阅源
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264$订阅源
-CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8$订阅源
+CCTV-16,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226888/.m3u8$订阅源
 CCTV-17,http://183.220.107.138:4022/rtp/239.11.0.107:5140$订阅源
-CETV-1,http://113.25.107.142:10000/rtp/239.1.1.65:8065$订阅源
+CCTV-17,http://1.24.39.180:9003/hls/61/index.m3u8$订阅源
 CETV-1,http://183.220.107.138:4022/rtp/239.11.0.139:5140$订阅源
 CETV-1,http://144.255.32.94:8288/rtp/239.21.2.7:5002$订阅源
 CETV-1,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/.m3u8$订阅源
 CETV-1,http://221.205.180.120:8004/rtp/226.0.2.181:9360$订阅源
-CETV-1,http://116.179.130.16:6001/rtp/226.0.2.181:9360$订阅源
-CETV-1,http://171.117.158.149:9999/rtp/226.0.2.181:9360$订阅源
 CETV-1,http://171.125.90.120:6001/rtp/226.0.2.181:9360$订阅源
-CETV-2,http://113.25.107.142:10000/rtp/239.1.1.66:8066$订阅源
 CETV-2,http://183.220.107.138:4022/rtp/239.11.0.246:5140$订阅源
 CETV-2,http://144.255.32.94:8288/rtp/239.21.2.8:5002$订阅源
 CETV-2,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8$订阅源
 CETV-3,http://183.220.107.138:4022/rtp/239.11.0.247:5140$订阅源
 CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源
-CETV-4,http://113.25.107.142:10000/rtp/239.1.1.67:8067$订阅源
 CETV-4,http://144.255.32.94:8288/rtp/239.21.1.222:5002$订阅源
 CETV-4,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8$订阅源
 
 💰央視付費頻道,#genre#
-文化精品,http://183.238.86.52:4022/rtp/239.11.0.66:1025$订阅源
 文化精品,http://221.205.180.120:8004/rtp/226.0.2.219:9664$订阅源
-文化精品,http://116.179.130.16:6001/rtp/226.0.2.219:9664$订阅源
-文化精品,http://171.117.158.149:9999/rtp/226.0.2.219:9664$订阅源
 文化精品,http://171.125.90.120:6001/rtp/226.0.2.219:9664$订阅源
-世界地理,http://183.238.86.52:4022/rtp/239.11.0.63:1025$订阅源
-兵器科技,http://183.238.86.52:4022/rtp/239.11.0.57:1025$订阅源
 兵器科技,http://221.205.180.120:8004/rtp/226.0.2.223:9696$订阅源
-兵器科技,http://116.179.130.16:6001/rtp/226.0.2.223:9696$订阅源
 兵器科技,http://171.125.90.120:6001/rtp/226.0.2.223:9696$订阅源
 
 📡衛視頻道,#genre#
@@ -128,10 +105,8 @@ CETV-4,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 北京生活,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv7_1/index.m3u8?adapt=0&BR=audio$订阅源
 
 ☘️上海頻道,#genre#
-法治天地,http://113.25.107.142:10000/rtp/239.1.1.79:8079$订阅源
+法治天地,http://183.184.47.145:8001/rtp/226.0.2.83:8576$订阅源
 法治天地,http://221.205.180.120:8004/rtp/226.0.2.83:8576$订阅源
-法治天地,http://116.179.130.16:6001/rtp/226.0.2.83:8576$订阅源
-法治天地,http://171.117.158.149:9999/rtp/226.0.2.83:8576$订阅源
 法治天地,http://171.125.90.120:6001/rtp/226.0.2.83:8576$订阅源
 
 ☘️江蘇頻道,#genre#
@@ -193,7 +168,6 @@ CETV-4,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/32
 
 🌊港·澳·台,#genre#
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源
-翡翠台,http://111.221.137.155:44330/tsfile/live/1021_1.m3u8?key=txiptv$订阅源
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 
@@ -203,7 +177,6 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 
 🏀體育頻道,#genre#
 CCTV-5,http://60.13.52.236:65500/newlive/live/hls/5/live.m3u8$订阅源
-CCTV-5+,http://61.136.172.236:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
 
 🪁動畫頻道,#genre#
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
@@ -212,10 +185,9 @@ CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.22
 🎮遊戲頻道,#genre#
 
 🎵音樂頻道,#genre#
+CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
 CCTV-15,http://1.24.39.180:9003/hls/15/index.m3u8$订阅源
 CCTV-15,http://171.15.18.199:8180/TV00000000000000000015@HHZT$订阅源
-CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
-CCTV-15,http://183.238.86.52:4022/rtp/239.11.0.25:1025$订阅源
 CCTV-15,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226910/.m3u8$订阅源
 CCTV-15,http://60.13.52.236:65500/newlive/live/hls/15/live.m3u8$订阅源
 CCTV-15,http://61.136.172.236:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源
