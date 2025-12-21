@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-19 18:29:38,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
+2025-12-21 18:27:39,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
 
 📺央視頻道,#genre#
 CCTV-1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub$订阅源
@@ -8,13 +8,13 @@ CCTV-4,http://183.220.107.138:4022/rtp/239.11.0.109:5140$订阅源
 CCTV-4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub$订阅源
 CCTV-5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub$订阅源
 CCTV-7,http://183.220.107.138:4022/rtp/239.11.0.110:5140$订阅源
+CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,http://171.15.18.199:8180/TV00000000000000000007@HHZT$订阅源
 CCTV-7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub$订阅源
-CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
 CCTV-7,http://omnix.cn:4000/udp/225.1.8.7:8104$订阅源
+CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8$订阅源
 CCTV-8,http://171.15.18.199:8180/TV00000000000000000008@HHZT$订阅源
 CCTV-8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub$订阅源
-CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8$订阅源
 CCTV-9,http://183.220.107.138:4022/rtp/239.11.0.111:5140$订阅源
 CCTV-9,http://171.15.18.199:8180/TV00000000000000000009@HHZT$订阅源
 CCTV-9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub$订阅源
@@ -24,16 +24,14 @@ CCTV-11,http://183.220.107.138:4022/rtp/239.11.0.22:5140$订阅源
 CCTV-11,http://171.15.18.199:8180/TV00000000000000000011@HHZT$订阅源
 CCTV-12,http://183.220.107.138:4022/rtp/239.11.0.113:5140$订阅源
 CCTV-12,http://171.15.18.199:8180/TV00000000000000000012@HHZT$订阅源
-CCTV-12,https://play.kankanlive.com/live/1698423511884917.m3u8$订阅源
 CCTV-13,http://183.220.107.138:4022/rtp/239.11.0.24:5140$订阅源
 CCTV-13,http://171.15.18.199:8180/TV00000000000000000013@HHZT$订阅源
 CCTV-13,http://38.75.136.137:98/gslb/dsdqpub/cctv13hd.m3u8?auth=testpub$订阅源
-CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8$订阅源
 CCTV-13,http://144.255.32.94:8288/rtp/239.21.2.3:5002$订阅源
+CCTV-13,https://play.kankanlive.com/live/1698423543275916.m3u8$订阅源
 CCTV-14,http://183.220.107.138:4022/rtp/239.11.0.114:5140$订阅源
 CCTV-14,http://171.15.18.199:8180/TV00000000000000000014@HHZT$订阅源
 CCTV-14,https://play.kankanlive.com/live/1698423575756915.m3u8$订阅源
-CCTV-14,http://60.13.52.236:65500/newlive/live/hls/14/live.m3u8$订阅源
 CCTV-15,http://183.220.107.138:4022/rtp/239.11.0.26:5140$订阅源
 CCTV-15,http://171.15.18.199:8180/TV00000000000000000015@HHZT$订阅源
 CCTV-15,https://play.kankanlive.com/live/1698423607826914.m3u8$订阅源
