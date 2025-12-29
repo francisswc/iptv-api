@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-12-27 18:27:20,https://www.freetv.top/migu/624878271.m3u8?migutoken=583eb8c5c48e5b14a4f782b43058efc16d128e0d4fa47e5b0814dfe842c8a8951d803a45a71656bc7fff6ba305cfbcd3d55909a119e8d9c1456b3842378e809ded8d3aa6cd633c2eadcab87259$订阅源
+2025-12-29 18:30:51,https://www.freetv.top/migu/624878271.m3u8?migutoken=583eb8c5c48e5b14a4f782b43058efc16d128e0d4fa47e5b0814dfe842c8a8951d803a45a71656bc7fff6ba305cfbcd3d55909a119e8d9c1456b3842378e809ded8d3aa6cd633c2eadcab87259$订阅源
 
 📺央視頻道,#genre#
 CCTV-3,https://www.freetv.top/migu/624878271.m3u8?migutoken=583eb8c5c48e5b14a4f782b43058efc16d128e0d4fa47e5b0814dfe842c8a8951d803a45a71656bc7fff6ba305cfbcd3d55909a119e8d9c1456b3842378e809ded8d3aa6cd633c2eadcab87259$订阅源
@@ -34,7 +34,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 ☘️北京頻道,#genre#
 
 ☘️上海頻道,#genre#
-上海都市,http://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8$订阅源
 
 ☘️江蘇頻道,#genre#
 南京十八,https://www.freetv.top/migu/838151753.m3u8?migutoken=8d26f1ff3a7322649e82c96f1a66d55d677c626a8ee62463a8c2625094b8270bd4345b1d0806f71840b81eac2b68f3a2aeabe6407feb4ee2f36580799b57c48c1418a87aee8ca513ec1544ca7a$订阅源
@@ -56,7 +55,6 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=e7dc493273bb331a8b7
 ☘️河南頻道,#genre#
 
 ☘️河北頻道,#genre#
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8$订阅源
 衡水公共,http://ls.qingting.fm/live/2810.m3u8$订阅源
 
 ☘️甘肅頻道,#genre#
