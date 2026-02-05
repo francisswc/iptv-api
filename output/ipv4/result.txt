@@ -1,47 +1,52 @@
 🕘️更新时间,#genre#
-2026-02-03 18:45:30,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$订阅源
+2026-02-05 18:46:52,http://23.237.228.134/live5/CCTV1.m3u8$订阅源
 
 📺央視頻道,#genre#
-CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$订阅源
 CCTV-1,http://23.237.228.134/live5/CCTV1.m3u8$订阅源
-CCTV-2,http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$订阅源
-CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8$订阅源
+CCTV-1,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009$订阅源
 CCTV-2,http://pull-hls-f1.douyincdn.com/media/stream-695106910011261612/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084152FCA02A28E82C926FE0D6-TkujMo&wsSecret=85bb061c39ad9227e9c420993c2e56b8&wsTime=697ea150$订阅源
-CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009$订阅源
+CCTV-2,http://23.237.228.134/live5/CCTV2.m3u8$订阅源
+CCTV-2,http://38.75.136.137:98/gslb/dsdqca/cctv2hd.m3u8?auth=test20251009$订阅源
 CCTV-3,http://23.237.228.134/live5/CCTV3.m3u8$订阅源
+CCTV-3,http://38.75.136.137:98/gslb/dsdqca/cctv3hd.m3u8?auth=test20251009$订阅源
+CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009$订阅源
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8$订阅源
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$订阅源
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 CCTV-6,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009$订阅源
 CCTV-7,http://23.237.228.134/live5/CCTV7.m3u8$订阅源
+CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009$订阅源
 CCTV-7,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv7_1_td.m3u8$订阅源
-CCTV-7,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHY3Lm0zdTg=$订阅源
 CCTV-8,http://23.237.228.134/live5/CCTV8.m3u8$订阅源
+CCTV-8,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009$订阅源
 CCTV-8,https://ldocctvwbcdtxy.liveplay.myqcloud.com/ldocctvwbcd/cdrmldcctv8_1_hd.m3u8$订阅源
-CCTV-9,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009$订阅源
 CCTV-9,http://23.237.228.134/live5/CCTV9.m3u8$订阅源
-CCTV-10,http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009$订阅源
 CCTV-10,http://23.237.228.134/live5/CCTV10.m3u8$订阅源
+CCTV-10,http://38.75.136.137:98/gslb/dsdqca/cctv10hd.m3u8?auth=test20251009$订阅源
 CCTV-11,http://38.75.136.137:98/gslb/dsdqca/cctv11hd.m3u8?auth=test20251009$订阅源
+CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8$订阅源
 CCTV-12,http://69.30.246.194/live/cctv12.m3u8$订阅源
 CCTV-12,http://38.75.136.137:98/gslb/dsdqca/cctv12hd.m3u8?auth=test20251009$订阅源
-CCTV-12,http://23.237.228.134/live3/CCTV12.m3u8$订阅源
 CCTV-13,http://pull-hls-f1.douyincdn.com/media/stream-695236781635011244/playlist.m3u8?arch_hrchy=w1&exp_hrchy=w1&keeptime=00093a80&major_anchor_level=common&t_id=037-20260201084040762AD6EF7F62F847F9C7-jI2I18&wsSecret=85681436b041bea9851727386a1a8d2c&wsTime=697ea108$订阅源
+CCTV-13,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009$订阅源
 CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4$订阅源
+CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8$订阅源
 CCTV-14,http://69.30.246.194/live/cctv14.m3u8$订阅源
 CCTV-14,http://38.75.136.137:98/gslb/dsdqca/chcdzdyhd.m3u8?auth=test20251009$订阅源
-CCTV-14,http://23.237.228.134/live3/CCTV14.m3u8$订阅源
 CCTV-14,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxNC5tM3U4$订阅源
+CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8$订阅源
 CCTV-15,http://69.30.246.194/live/cctv15.m3u8$订阅源
 CCTV-15,http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$订阅源
-CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8$订阅源
 CCTV-16,http://69.30.246.194/live/cctv16.m3u8$订阅源
+CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8$订阅源
 CCTV-16,http://38.75.136.137:98/gslb/dsdqca/chcjtyyhd.m3u8?auth=test20251009$订阅源
 CCTV-16,http://home.yulei.online:9999/rtp/226.0.2.169:9264$订阅源
-CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
 CCTV-17,http://23.237.228.134/live3/CCTV17.m3u8$订阅源
+CCTV-17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009$订阅源
 CETV-1,http://171.83.103.119:9999/rtp/239.69.1.110:10298$订阅源
 CETV-4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001$订阅源
 CETV-4,http://171.83.103.119:9999/rtp/239.69.2.29:11328$订阅源
-CETV-4,http://39.152.103.17:8089/tsfile/live/1092_1.m3u8?key=txiptv&playlive=1&down=1$订阅源
+CETV-4,http://39.106.167.36/migu.php?id=923287339$订阅源
 CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000$订阅源
 
 💰央視付費頻道,#genre#
@@ -56,12 +61,12 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000$订阅源
 
 ☘️浙江頻道,#genre#
 浙江生活,http://ali-m-l.cztv.com/channels/lantian/channel003/720p.m3u8$订阅源
-浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江教育,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8$订阅源
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
+浙江教育,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8$订阅源
 浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8$订阅源
 湖州公共,http://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e&amp;fbl=$订阅源
 湖州公共,https://hzcm-live.media.hugd.com/1e6b554b9ab74513958c0e1ffe664d22/9acaa7634309494cb29a85eb12136607.m3u8?auth_key=2272900830-9a2389b8bf4e49d580d4ad807423d326-0-ea78a5c7a678c436263582d368f5009e$订阅源
 浙江教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed$订阅源
@@ -81,6 +86,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000$订阅源
 法治天地,http://112.254.55.106:22222/rtp/239.253.254.96:8000$订阅源
 
 ☘️江蘇頻道,#genre#
+南京教科,http://39.106.167.36/migu.php?id=838153729$订阅源
 句容影院,http://jrlive.jrntv.com/live/_definst_/yingshis/chunklist_w1994429382.m3u8?zjiangsd$订阅源
 句容生活,http://jrlive.jrntv.com/live/_definst_/shenghuos/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]$订阅源
 常熟民生,rtmp://cstvplay.21cs.cn/cstv2/cstv2$订阅源
@@ -135,9 +141,7 @@ CETV-4,http://112.254.55.106:22222/rtp/239.253.254.116:8000$订阅源
 ☘️黑龍江頻道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』$订阅源
 翡翠台,http://74.91.26.218:82/live/jade.m3u8$订阅源
-Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40$订阅源
 Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8$订阅源
 
 🎬電影頻道,#genre#
@@ -147,17 +151,18 @@ CHC家庭影院,http://38.75.136.137:98/gslb/dsdqpub/chcjt.m3u8?auth=testpub$订
 
 🏀體育頻道,#genre#
 CCTV-5,http://23.237.228.134/live5/CCTV5p.m3u8$订阅源
+CCTV-5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009$订阅源
+CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009$订阅源
 
 🪁動畫頻道,#genre#
-CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40$订阅源
 火影忍者,http://1.94.31.214:35455/huya/11342385$订阅源
 
 🎮遊戲頻道,#genre#
 
 🎵音樂頻道,#genre#
+CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8$订阅源
 CCTV-15,http://69.30.246.194/live/cctv15.m3u8$订阅源
 CCTV-15,http://38.75.136.137:98/gslb/dsdqca/chcymdyhd.m3u8?auth=test20251009$订阅源
-CCTV-15,http://23.237.228.134/live3/CCTV15.m3u8$订阅源
 
 🏛經典劇場,#genre#
 笑傲江湖,https://lunbo.freetv.top/yy/1352833750$订阅源
