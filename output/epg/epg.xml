@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20260207103121 +0800">
+<tv date="20260209110335 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -3858,460 +3858,487 @@
 	<channel id="世界地理">
 		<display-name lang="zh">世界地理</display-name>
 	</channel>
-	<programme channel="世界地理" start="20260207003200 +0800" stop="20260207005600 +0800">
-		<title lang="zh">活力·源2022-395</title>
-	</programme>
-	<programme channel="世界地理" start="20260207005600 +0800" stop="20260207070000 +0800">
-		<title lang="zh">活力·源2022-396</title>
-	</programme>
-	<programme channel="世界地理" start="20260207070000 +0800" stop="20260207074200 +0800">
-		<title lang="zh">远方的家2024-146</title>
-	</programme>
-	<programme channel="世界地理" start="20260207074200 +0800" stop="20260207081200 +0800">
-		<title lang="zh">味道-2025-36</title>
-	</programme>
-	<programme channel="世界地理" start="20260207081200 +0800" stop="20260207081900 +0800">
-		<title lang="zh">魅力精品榜-2026-1</title>
-	</programme>
-	<programme channel="世界地理" start="20260207081900 +0800" stop="20260207084900 +0800">
-		<title lang="zh">味道-2025-37</title>
-	</programme>
-	<programme channel="世界地理" start="20260207084900 +0800" stop="20260207085400 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点-6</title>
-	</programme>
-	<programme channel="世界地理" start="20260207085400 +0800" stop="20260207094700 +0800">
-		<title lang="zh">世界地理50’-与恐龙同行 第四集 族群纷争</title>
-	</programme>
-	<programme channel="世界地理" start="20260207094700 +0800" stop="20260207103800 +0800">
-		<title lang="zh">特别呈现2020-87</title>
-	</programme>
-	<programme channel="世界地理" start="20260207103800 +0800" stop="20260207112800 +0800">
-		<title lang="zh">特别呈现2024-256</title>
-	</programme>
-	<programme channel="世界地理" start="20260207112800 +0800" stop="20260207113300 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点-6</title>
-	</programme>
-	<programme channel="世界地理" start="20260207113300 +0800" stop="20260207115300 +0800">
-		<title lang="zh">跟着书本去旅行-2021-218</title>
-	</programme>
-	<programme channel="世界地理" start="20260207115300 +0800" stop="20260207121300 +0800">
-		<title lang="zh">跟着书本去旅行-2021-219</title>
-	</programme>
-	<programme channel="世界地理" start="20260207121300 +0800" stop="20260207123800 +0800">
-		<title lang="zh">活力·源2025-3</title>
-	</programme>
-	<programme channel="世界地理" start="20260207123800 +0800" stop="20260207124500 +0800">
-		<title lang="zh">魅力精品榜-2026-1</title>
-	</programme>
-	<programme channel="世界地理" start="20260207124500 +0800" stop="20260207131000 +0800">
-		<title lang="zh">活力·源2025-4</title>
-	</programme>
-	<programme channel="世界地理" start="20260207131000 +0800" stop="20260207131700 +0800">
-		<title lang="zh">魅力精品榜-2026-1</title>
-	</programme>
-	<programme channel="世界地理" start="20260207131700 +0800" stop="20260207134200 +0800">
-		<title lang="zh">活力·源2021-393</title>
-	</programme>
-	<programme channel="世界地理" start="20260207134200 +0800" stop="20260207140600 +0800">
-		<title lang="zh">活力·源2021-394</title>
-	</programme>
-	<programme channel="世界地理" start="20260207140600 +0800" stop="20260207141100 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点-6</title>
-	</programme>
-	<programme channel="世界地理" start="20260207141100 +0800" stop="20260207145800 +0800">
-		<title lang="zh">远方的家2024-147</title>
-	</programme>
-	<programme channel="世界地理" start="20260207145800 +0800" stop="20260207154600 +0800">
-		<title lang="zh">世界地理50’-与恐龙同行 第五集 迁徙之路</title>
-	</programme>
-	<programme channel="世界地理" start="20260207154600 +0800" stop="20260207161000 +0800">
+	<programme channel="世界地理" start="20260209003500 +0800" stop="20260209005900 +0800">
 		<title lang="zh">活力·源2022-399</title>
 	</programme>
-	<programme channel="世界地理" start="20260207161000 +0800" stop="20260207163400 +0800">
+	<programme channel="世界地理" start="20260209005900 +0800" stop="20260209070000 +0800">
 		<title lang="zh">活力·源2022-400</title>
 	</programme>
-	<programme channel="世界地理" start="20260207163400 +0800" stop="20260207163900 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点-6</title>
-	</programme>
-	<programme channel="世界地理" start="20260207163900 +0800" stop="20260207170400 +0800">
-		<title lang="zh">活力·源2025-5</title>
-	</programme>
-	<programme channel="世界地理" start="20260207170400 +0800" stop="20260207172900 +0800">
-		<title lang="zh">活力·源2025-6</title>
-	</programme>
-	<programme channel="世界地理" start="20260207172900 +0800" stop="20260207173600 +0800">
-		<title lang="zh">魅力精品榜-2026-1</title>
-	</programme>
-	<programme channel="世界地理" start="20260207173600 +0800" stop="20260207182600 +0800">
-		<title lang="zh">特别呈现2023-74</title>
-	</programme>
-	<programme channel="世界地理" start="20260207182600 +0800" stop="20260207183100 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点-6</title>
-	</programme>
-	<programme channel="世界地理" start="20260207183100 +0800" stop="20260207185100 +0800">
-		<title lang="zh">跟着书本去旅行-2021-220</title>
-	</programme>
-	<programme channel="世界地理" start="20260207185100 +0800" stop="20260207191300 +0800">
-		<title lang="zh">跟着书本去旅行-2021-221</title>
-	</programme>
-	<programme channel="世界地理" start="20260207191300 +0800" stop="20260207195900 +0800">
+	<programme channel="世界地理" start="20260209070000 +0800" stop="20260209074200 +0800">
 		<title lang="zh">远方的家2024-149</title>
 	</programme>
-	<programme channel="世界地理" start="20260207195900 +0800" stop="20260207200000 +0800">
-		<title lang="zh">世界地理频道字幕板-2023-2</title>
+	<programme channel="世界地理" start="20260209074200 +0800" stop="20260209081200 +0800">
+		<title lang="zh">活力·源2025-5</title>
 	</programme>
-	<programme channel="世界地理" start="20260207200000 +0800" stop="20260207204700 +0800">
+	<programme channel="世界地理" start="20260209081200 +0800" stop="20260209083700 +0800">
+		<title lang="zh">活力·源2025-6</title>
+	</programme>
+	<programme channel="世界地理" start="20260209083700 +0800" stop="20260209084200 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
+	</programme>
+	<programme channel="世界地理" start="20260209084200 +0800" stop="20260209093000 +0800">
 		<title lang="zh">世界地理50’-与恐龙同行 第六集 巨龙争霸</title>
 	</programme>
-	<programme channel="世界地理" start="20260207204700 +0800" stop="20260207204900 +0800">
-		<title lang="zh">秘境之眼-2025-232</title>
-	</programme>
-	<programme channel="世界地理" start="20260207204900 +0800" stop="20260207210000 +0800">
+	<programme channel="世界地理" start="20260209093000 +0800" stop="20260209093700 +0800">
 		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260207210000 +0800" stop="20260207212500 +0800">
+	<programme channel="世界地理" start="20260209093700 +0800" stop="20260209102900 +0800">
+		<title lang="zh">特别呈现2023-323</title>
+	</programme>
+	<programme channel="世界地理" start="20260209102900 +0800" stop="20260209111900 +0800">
+		<title lang="zh">特别呈现2023-74</title>
+	</programme>
+	<programme channel="世界地理" start="20260209111900 +0800" stop="20260209112400 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
+	</programme>
+	<programme channel="世界地理" start="20260209112400 +0800" stop="20260209114400 +0800">
+		<title lang="zh">跟着书本去旅行-2022-47</title>
+	</programme>
+	<programme channel="世界地理" start="20260209114400 +0800" stop="20260209120400 +0800">
+		<title lang="zh">跟着书本去旅行-2022-48</title>
+	</programme>
+	<programme channel="世界地理" start="20260209120400 +0800" stop="20260209123400 +0800">
+		<title lang="zh">味道-2025-44</title>
+	</programme>
+	<programme channel="世界地理" start="20260209123400 +0800" stop="20260209130400 +0800">
+		<title lang="zh">味道-2025-45</title>
+	</programme>
+	<programme channel="世界地理" start="20260209130400 +0800" stop="20260209131100 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
+	</programme>
+	<programme channel="世界地理" start="20260209131100 +0800" stop="20260209133600 +0800">
+		<title lang="zh">活力·源2021-397</title>
+	</programme>
+	<programme channel="世界地理" start="20260209133600 +0800" stop="20260209140100 +0800">
+		<title lang="zh">活力·源2023-114</title>
+	</programme>
+	<programme channel="世界地理" start="20260209140100 +0800" stop="20260209140600 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
+	</programme>
+	<programme channel="世界地理" start="20260209140600 +0800" stop="20260209144800 +0800">
+		<title lang="zh">远方的家2024-150</title>
+	</programme>
+	<programme channel="世界地理" start="20260209144800 +0800" stop="20260209145500 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
+	</programme>
+	<programme channel="世界地理" start="20260209145500 +0800" stop="20260209153300 +0800">
+		<title lang="zh">世界地理30’-深海探秘 第一集</title>
+	</programme>
+	<programme channel="世界地理" start="20260209153300 +0800" stop="20260209155800 +0800">
+		<title lang="zh">活力·源2023-154</title>
+	</programme>
+	<programme channel="世界地理" start="20260209155800 +0800" stop="20260209162300 +0800">
+		<title lang="zh">活力·源2023-155</title>
+	</programme>
+	<programme channel="世界地理" start="20260209162300 +0800" stop="20260209162800 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
+	</programme>
+	<programme channel="世界地理" start="20260209162800 +0800" stop="20260209165800 +0800">
+		<title lang="zh">味道-2025-46</title>
+	</programme>
+	<programme channel="世界地理" start="20260209165800 +0800" stop="20260209172800 +0800">
+		<title lang="zh">味道-2025-47</title>
+	</programme>
+	<programme channel="世界地理" start="20260209172800 +0800" stop="20260209173600 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
+	</programme>
+	<programme channel="世界地理" start="20260209173600 +0800" stop="20260209182600 +0800">
+		<title lang="zh">特别呈现2023-325</title>
+	</programme>
+	<programme channel="世界地理" start="20260209182600 +0800" stop="20260209183100 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
+	</programme>
+	<programme channel="世界地理" start="20260209183100 +0800" stop="20260209185100 +0800">
+		<title lang="zh">跟着书本去旅行-2022-50</title>
+	</programme>
+	<programme channel="世界地理" start="20260209185100 +0800" stop="20260209191300 +0800">
+		<title lang="zh">跟着书本去旅行-2022-51</title>
+	</programme>
+	<programme channel="世界地理" start="20260209191300 +0800" stop="20260209195900 +0800">
+		<title lang="zh">方的家2025-6</title>
+	</programme>
+	<programme channel="世界地理" start="20260209195900 +0800" stop="20260209200000 +0800">
+		<title lang="zh">世界地理频道字幕板-2023-2</title>
+	</programme>
+	<programme channel="世界地理" start="20260209200000 +0800" stop="20260209203700 +0800">
+		<title lang="zh">世界地理30’-深海探秘 第二集</title>
+	</programme>
+	<programme channel="世界地理" start="20260209203700 +0800" stop="20260209204200 +0800">
+		<title lang="zh">中国微名片·世界遗产-4(4K)</title>
+	</programme>
+	<programme channel="世界地理" start="20260209204200 +0800" stop="20260209204700 +0800">
+		<title lang="zh">中国微名片·世界遗产-5(4K)</title>
+	</programme>
+	<programme channel="世界地理" start="20260209204700 +0800" stop="20260209204900 +0800">
+		<title lang="zh">秘境之眼-2025-234</title>
+	</programme>
+	<programme channel="世界地理" start="20260209204900 +0800" stop="20260209210000 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
+	</programme>
+	<programme channel="世界地理" start="20260209210000 +0800" stop="20260209212400 +0800">
+		<title lang="zh">活力·源2023-156</title>
+	</programme>
+	<programme channel="世界地理" start="20260209212400 +0800" stop="20260209215000 +0800">
+		<title lang="zh">活力·源2023-157</title>
+	</programme>
+	<programme channel="世界地理" start="20260209215000 +0800" stop="20260209223900 +0800">
+		<title lang="zh">特别呈现2022-298</title>
+	</programme>
+	<programme channel="世界地理" start="20260209223900 +0800" stop="20260209224400 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
+	</programme>
+	<programme channel="世界地理" start="20260209224400 +0800" stop="20260209225100 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
+	</programme>
+	<programme channel="世界地理" start="20260209225100 +0800" stop="20260209231600 +0800">
+		<title lang="zh">活力·源2023-115</title>
+	</programme>
+	<programme channel="世界地理" start="20260209231600 +0800" stop="20260209234100 +0800">
+		<title lang="zh">活力·源2023-116</title>
+	</programme>
+	<programme channel="世界地理" start="20260209234100 +0800" stop="20260209002600 +0800">
+		<title lang="zh">特别呈现2023-73</title>
+	</programme>
+	<programme channel="世界地理" start="20260210002600 +0800" stop="20260210005100 +0800">
 		<title lang="zh">活力·源2023-152</title>
 	</programme>
-	<programme channel="世界地理" start="20260207212500 +0800" stop="20260207215200 +0800">
+	<programme channel="世界地理" start="20260210005100 +0800" stop="20260210070000 +0800">
 		<title lang="zh">活力·源2023-153</title>
 	</programme>
-	<programme channel="世界地理" start="20260207215200 +0800" stop="20260207224200 +0800">
-		<title lang="zh">特别呈现2023-322</title>
+	<programme channel="世界地理" start="20260210070000 +0800" stop="20260210074200 +0800">
+		<title lang="zh">远方的家2020-71</title>
 	</programme>
-	<programme channel="世界地理" start="20260207224200 +0800" stop="20260207224700 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点-6</title>
+	<programme channel="世界地理" start="20260210074200 +0800" stop="20260210081700 +0800">
+		<title lang="zh">味道-2025-44</title>
 	</programme>
-	<programme channel="世界地理" start="20260207224700 +0800" stop="20260207225400 +0800">
+	<programme channel="世界地理" start="20260210081700 +0800" stop="20260210084700 +0800">
+		<title lang="zh">味道-2025-45</title>
+	</programme>
+	<programme channel="世界地理" start="20260210084700 +0800" stop="20260210085200 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
+	</programme>
+	<programme channel="世界地理" start="20260210085200 +0800" stop="20260210092600 +0800">
+		<title lang="zh">世界地理30’-深海探秘 第一集</title>
+	</programme>
+	<programme channel="世界地理" start="20260210092600 +0800" stop="20260210093300 +0800">
 		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260207225400 +0800" stop="20260207231900 +0800">
-		<title lang="zh">活力·源2021-395</title>
+	<programme channel="世界地理" start="20260210093300 +0800" stop="20260210102300 +0800">
+		<title lang="zh">特别呈现2022-298</title>
 	</programme>
-	<programme channel="世界地理" start="20260207231900 +0800" stop="20260207234500 +0800">
-		<title lang="zh">活力·源2021-396</title>
+	<programme channel="世界地理" start="20260210102300 +0800" stop="20260210110800 +0800">
+		<title lang="zh">特别呈现2023-73</title>
 	</programme>
-	<programme channel="世界地理" start="20260207234500 +0800" stop="20260207003500 +0800">
-		<title lang="zh">特别呈现2023-289</title>
+	<programme channel="世界地理" start="20260210110800 +0800" stop="20260210111300 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
 	</programme>
-	<programme channel="世界地理" start="20260208003500 +0800" stop="20260208070000 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210111300 +0800" stop="20260210113300 +0800">
+		<title lang="zh">跟着书本去旅行-2022-50</title>
 	</programme>
-	<programme channel="世界地理" start="20260208070000 +0800" stop="20260208074200 +0800">
-		<title lang="zh">远方的家</title>
+	<programme channel="世界地理" start="20260210113300 +0800" stop="20260210114000 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260208074200 +0800" stop="20260208080700 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210114000 +0800" stop="20260210120000 +0800">
+		<title lang="zh">跟着书本去旅行-2022-51</title>
 	</programme>
-	<programme channel="世界地理" start="20260208080700 +0800" stop="20260208081400 +0800">
-		<title lang="zh">魅力精品榜</title>
+	<programme channel="世界地理" start="20260210120000 +0800" stop="20260210123000 +0800">
+		<title lang="zh">味道-2025-46</title>
 	</programme>
-	<programme channel="世界地理" start="20260208081400 +0800" stop="20260208083900 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210123000 +0800" stop="20260210130000 +0800">
+		<title lang="zh">味道-2025-47</title>
 	</programme>
-	<programme channel="世界地理" start="20260208083900 +0800" stop="20260208084400 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点(6)</title>
+	<programme channel="世界地理" start="20260210130000 +0800" stop="20260210130800 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260208084400 +0800" stop="20260208093200 +0800">
-		<title lang="zh">与恐龙同行(5):迁徙之路</title>
+	<programme channel="世界地理" start="20260210130800 +0800" stop="20260210133300 +0800">
+		<title lang="zh">活力·源2023-115</title>
 	</programme>
-	<programme channel="世界地理" start="20260208093200 +0800" stop="20260208093900 +0800">
-		<title lang="zh">魅力精品榜</title>
+	<programme channel="世界地理" start="20260210133300 +0800" stop="20260210135800 +0800">
+		<title lang="zh">活力·源2023-116</title>
 	</programme>
-	<programme channel="世界地理" start="20260208093900 +0800" stop="20260208103100 +0800">
-		<title lang="zh">特别呈现</title>
+	<programme channel="世界地理" start="20260210135800 +0800" stop="20260210140300 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
 	</programme>
-	<programme channel="世界地理" start="20260208103100 +0800" stop="20260208112100 +0800">
-		<title lang="zh">特别呈现</title>
+	<programme channel="世界地理" start="20260210140300 +0800" stop="20260210144500 +0800">
+		<title lang="zh">方的家2025-6</title>
 	</programme>
-	<programme channel="世界地理" start="20260208112100 +0800" stop="20260208112600 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点(6)</title>
+	<programme channel="世界地理" start="20260210144500 +0800" stop="20260210145200 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260208112600 +0800" stop="20260208120600 +0800">
-		<title lang="zh">跟着书本去旅行</title>
+	<programme channel="世界地理" start="20260210145200 +0800" stop="20260210153400 +0800">
+		<title lang="zh">世界地理30’-深海探秘 第二集</title>
 	</programme>
-	<programme channel="世界地理" start="20260208120600 +0800" stop="20260208123100 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210153400 +0800" stop="20260210155900 +0800">
+		<title lang="zh">活力·源2023-156</title>
 	</programme>
-	<programme channel="世界地理" start="20260208123100 +0800" stop="20260208123800 +0800">
-		<title lang="zh">魅力精品榜</title>
+	<programme channel="世界地理" start="20260210155900 +0800" stop="20260210162400 +0800">
+		<title lang="zh">活力·源2023-157</title>
 	</programme>
-	<programme channel="世界地理" start="20260208123800 +0800" stop="20260208130300 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210162400 +0800" stop="20260210162900 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
 	</programme>
-	<programme channel="世界地理" start="20260208130300 +0800" stop="20260208131000 +0800">
-		<title lang="zh">魅力精品榜</title>
+	<programme channel="世界地理" start="20260210162900 +0800" stop="20260210165900 +0800">
+		<title lang="zh">味道-2025-48</title>
 	</programme>
-	<programme channel="世界地理" start="20260208131000 +0800" stop="20260208140000 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210165900 +0800" stop="20260210172900 +0800">
+		<title lang="zh">味道-2025-49</title>
 	</programme>
-	<programme channel="世界地理" start="20260208140000 +0800" stop="20260208140500 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点(6)</title>
+	<programme channel="世界地理" start="20260210172900 +0800" stop="20260210173700 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260208140500 +0800" stop="20260208144700 +0800">
-		<title lang="zh">远方的家</title>
+	<programme channel="世界地理" start="20260210173700 +0800" stop="20260210180200 +0800">
+		<title lang="zh">力·源2025-62</title>
 	</programme>
-	<programme channel="世界地理" start="20260208144700 +0800" stop="20260208154000 +0800">
-		<title lang="zh">与恐龙同行(6):巨龙争霸</title>
+	<programme channel="世界地理" start="20260210180200 +0800" stop="20260210182700 +0800">
+		<title lang="zh">力·源2025-63</title>
 	</programme>
-	<programme channel="世界地理" start="20260208154000 +0800" stop="20260208160500 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210182700 +0800" stop="20260210183200 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
 	</programme>
-	<programme channel="世界地理" start="20260208160500 +0800" stop="20260208163000 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210183200 +0800" stop="20260210185200 +0800">
+		<title lang="zh">跟着书本去旅行-2022-26</title>
 	</programme>
-	<programme channel="世界地理" start="20260208163000 +0800" stop="20260208163500 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点(6)</title>
+	<programme channel="世界地理" start="20260210185200 +0800" stop="20260210191400 +0800">
+		<title lang="zh">跟着书本去旅行-2022-27</title>
 	</programme>
-	<programme channel="世界地理" start="20260208163500 +0800" stop="20260208170500 +0800">
-		<title lang="zh">味道</title>
+	<programme channel="世界地理" start="20260210191400 +0800" stop="20260210195900 +0800">
+		<title lang="zh">远方的家2025-8(4K)</title>
 	</programme>
-	<programme channel="世界地理" start="20260208170500 +0800" stop="20260208173500 +0800">
-		<title lang="zh">味道</title>
+	<programme channel="世界地理" start="20260210195900 +0800" stop="20260210200000 +0800">
+		<title lang="zh">世界地理频道字幕板-2023-2</title>
 	</programme>
-	<programme channel="世界地理" start="20260208173500 +0800" stop="20260208174200 +0800">
-		<title lang="zh">魅力精品榜</title>
+	<programme channel="世界地理" start="20260210200000 +0800" stop="20260210203400 +0800">
+		<title lang="zh">世界地理30’-深海探秘 第三集</title>
 	</programme>
-	<programme channel="世界地理" start="20260208174200 +0800" stop="20260208182700 +0800">
-		<title lang="zh">特别呈现</title>
+	<programme channel="世界地理" start="20260210203400 +0800" stop="20260210203800 +0800">
+		<title lang="zh">中国微名片·世界遗产-6(4K)</title>
 	</programme>
-	<programme channel="世界地理" start="20260208182700 +0800" stop="20260208183200 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点(6)</title>
+	<programme channel="世界地理" start="20260210203800 +0800" stop="20260210204300 +0800">
+		<title lang="zh">中国微名片·世界遗产-7(4K)</title>
 	</programme>
-	<programme channel="世界地理" start="20260208183200 +0800" stop="20260208191400 +0800">
-		<title lang="zh">跟着书本去旅行</title>
+	<programme channel="世界地理" start="20260210204300 +0800" stop="20260210204500 +0800">
+		<title lang="zh">秘境之眼-2025-235</title>
 	</programme>
-	<programme channel="世界地理" start="20260208191400 +0800" stop="20260208200000 +0800">
-		<title lang="zh">远方的家</title>
+	<programme channel="世界地理" start="20260210204500 +0800" stop="20260210204700 +0800">
+		<title lang="zh">秘境之眼-2025-236</title>
 	</programme>
-	<programme channel="世界地理" start="20260208200000 +0800" stop="20260208203300 +0800">
-		<title lang="zh">深海探秘(1)</title>
+	<programme channel="世界地理" start="20260210204700 +0800" stop="20260210204900 +0800">
+		<title lang="zh">秘境之眼-2025-237</title>
 	</programme>
-	<programme channel="世界地理" start="20260208203300 +0800" stop="20260208203800 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点(6)</title>
+	<programme channel="世界地理" start="20260210204900 +0800" stop="20260210210000 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260208203800 +0800" stop="20260208204300 +0800">
-		<title lang="zh">中国微名片·世界遗产(2)</title>
+	<programme channel="世界地理" start="20260210210000 +0800" stop="20260210212500 +0800">
+		<title lang="zh">活力·源2023-158</title>
 	</programme>
-	<programme channel="世界地理" start="20260208204300 +0800" stop="20260208204700 +0800">
-		<title lang="zh">中国微名片·世界遗产(3)</title>
+	<programme channel="世界地理" start="20260210212500 +0800" stop="20260210215100 +0800">
+		<title lang="zh">活力·源2023-148</title>
 	</programme>
-	<programme channel="世界地理" start="20260208204700 +0800" stop="20260208204900 +0800">
-		<title lang="zh">秘境之眼</title>
+	<programme channel="世界地理" start="20260210215100 +0800" stop="20260210224000 +0800">
+		<title lang="zh">特别呈现2022-299</title>
 	</programme>
-	<programme channel="世界地理" start="20260208204900 +0800" stop="20260208210000 +0800">
-		<title lang="zh">魅力精品榜</title>
+	<programme channel="世界地理" start="20260210224000 +0800" stop="20260210224500 +0800">
+		<title lang="zh">2026世界地理频道精彩多看点-7</title>
 	</programme>
-	<programme channel="世界地理" start="20260208210000 +0800" stop="20260208215200 +0800">
-		<title lang="zh">活力·源</title>
+	<programme channel="世界地理" start="20260210224500 +0800" stop="20260210225200 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="世界地理" start="20260208215200 +0800" stop="20260208224200 +0800">
-		<title lang="zh">特别呈现</title>
+	<programme channel="世界地理" start="20260210225200 +0800" stop="20260210231700 +0800">
+		<title lang="zh">活力·源2025-142</title>
 	</programme>
-	<programme channel="世界地理" start="20260208224200 +0800" stop="20260208224700 +0800">
-		<title lang="zh">2026世界地理频道精彩多看点(6)</title>
+	<programme channel="世界地理" start="20260210231700 +0800" stop="20260210234300 +0800">
+		<title lang="zh">活力·源2025-143</title>
 	</programme>
-	<programme channel="世界地理" start="20260208224700 +0800" stop="20260208225400 +0800">
-		<title lang="zh">魅力精品榜</title>
-	</programme>
-	<programme channel="世界地理" start="20260208225400 +0800" stop="20260208231900 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20260208231900 +0800" stop="20260208234500 +0800">
-		<title lang="zh">活力·源</title>
-	</programme>
-	<programme channel="世界地理" start="20260208234500 +0800" stop="20260208003500 +0800">
-		<title lang="zh">特别呈现</title>
+	<programme channel="世界地理" start="20260210234300 +0800" stop="20260210003300 +0800">
+		<title lang="zh">特别呈现2023-325</title>
 	</programme>
 	<channel id="兵器科技">
 		<display-name lang="zh">兵器科技</display-name>
 	</channel>
-	<programme channel="兵器科技" start="20260207001800 +0800" stop="20260207080200 +0800">
-		<title lang="zh">军武零距离-2025-18(4K)</title>
+	<programme channel="兵器科技" start="20260209001000 +0800" stop="20260209003300 +0800">
+		<title lang="zh">军营的味道-2026-1</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207080200 +0800" stop="20260207083200 +0800">
-		<title lang="zh">兵工启示录-2020-51</title>
+	<programme channel="兵器科技" start="20260209003300 +0800" stop="20260209080200 +0800">
+		<title lang="zh">影视背景-2023-6</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207083200 +0800" stop="20260207090300 +0800">
-		<title lang="zh">军火之源-2020-33</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207090300 +0800" stop="20260207093300 +0800">
-		<title lang="zh">武器装备背后的故事-2020-21</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207093300 +0800" stop="20260207102400 +0800">
-		<title lang="zh">大家谈-2024-5</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207102400 +0800" stop="20260207105100 +0800">
-		<title lang="zh">军武零距离-2025-13(4K)</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207105100 +0800" stop="20260207111800 +0800">
-		<title lang="zh">军武零距离-2025-16(4K)</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207111800 +0800" stop="20260207114500 +0800">
-		<title lang="zh">军事科技-2025-38</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207114500 +0800" stop="20260207121200 +0800">
-		<title lang="zh">军事科技-2025-39</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207121200 +0800" stop="20260207121900 +0800">
-		<title lang="zh">魅力精品榜-2026-1</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207121900 +0800" stop="20260207125000 +0800">
-		<title lang="zh">兵工启示录-2020-52</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207125000 +0800" stop="20260207132000 +0800">
-		<title lang="zh">军火之源-2020-36</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207132000 +0800" stop="20260207135100 +0800">
-		<title lang="zh">武器装备背后的故事-2021-22</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207135100 +0800" stop="20260207144100 +0800">
-		<title lang="zh">大家谈-2024-6</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207144100 +0800" stop="20260207153500 +0800">
-		<title lang="zh">讲武堂-2025-17</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207153500 +0800" stop="20260207160100 +0800">
-		<title lang="zh">军事纪实-2025-38</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207160100 +0800" stop="20260207162700 +0800">
-		<title lang="zh">军事纪实-2025-39</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207162700 +0800" stop="20260207165700 +0800">
+	<programme channel="兵器科技" start="20260209080200 +0800" stop="20260209083200 +0800">
 		<title lang="zh">兵工启示录-2020-53</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207165700 +0800" stop="20260207172800 +0800">
+	<programme channel="兵器科技" start="20260209083200 +0800" stop="20260209090300 +0800">
 		<title lang="zh">军火之源-2020-37</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207172800 +0800" stop="20260207175800 +0800">
+	<programme channel="兵器科技" start="20260209090300 +0800" stop="20260209093300 +0800">
 		<title lang="zh">武器装备背后的故事-2021-23</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207175800 +0800" stop="20260207185000 +0800">
+	<programme channel="兵器科技" start="20260209093300 +0800" stop="20260209102400 +0800">
 		<title lang="zh">大家谈-2024-7</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207185000 +0800" stop="20260207191500 +0800">
+	<programme channel="兵器科技" start="20260209102400 +0800" stop="20260209105000 +0800">
 		<title lang="zh">军事纪实-2025-40</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207191500 +0800" stop="20260207194100 +0800">
+	<programme channel="兵器科技" start="20260209105000 +0800" stop="20260209111500 +0800">
 		<title lang="zh">军事纪实-2025-41</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207194100 +0800" stop="20260207200800 +0800">
+	<programme channel="兵器科技" start="20260209111500 +0800" stop="20260209114200 +0800">
 		<title lang="zh">军武零距离-2025-17(4K)</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207200800 +0800" stop="20260207203500 +0800">
+	<programme channel="兵器科技" start="20260209114200 +0800" stop="20260209120900 +0800">
 		<title lang="zh">军武零距离-2025-18(4K)</title>
 	</programme>
-	<programme channel="兵器科技" start="20260207203500 +0800" stop="20260207210600 +0800">
-		<title lang="zh">兵工启示录-2020-54</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207210600 +0800" stop="20260207213600 +0800">
-		<title lang="zh">军火之源-2020-35</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207213600 +0800" stop="20260207220700 +0800">
-		<title lang="zh">武器装备背后的故事-2019-133</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207220700 +0800" stop="20260207225700 +0800">
-		<title lang="zh">大家谈-2024-8</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207225700 +0800" stop="20260207232400 +0800">
-		<title lang="zh">军事科技-2026-1</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207232400 +0800" stop="20260207235100 +0800">
-		<title lang="zh">军事科技-2026-2</title>
-	</programme>
-	<programme channel="兵器科技" start="20260207235100 +0800" stop="20260207004600 +0800">
-		<title lang="zh">讲武堂-2025-32</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208004600 +0800" stop="20260208080200 +0800">
-		<title lang="zh">影视背景-2023-5</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208080200 +0800" stop="20260208083200 +0800">
-		<title lang="zh">兵工启示录-2020-52</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208083200 +0800" stop="20260208090300 +0800">
-		<title lang="zh">军火之源-2020-36</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208090300 +0800" stop="20260208093300 +0800">
-		<title lang="zh">武器装备背后的故事-2021-22</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208093300 +0800" stop="20260208102400 +0800">
-		<title lang="zh">大家谈-2024-6</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208102400 +0800" stop="20260208111800 +0800">
-		<title lang="zh">讲武堂-2025-17</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208111800 +0800" stop="20260208114400 +0800">
-		<title lang="zh">军事纪实-2025-38</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208114400 +0800" stop="20260208120900 +0800">
-		<title lang="zh">军事纪实-2025-39</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208120900 +0800" stop="20260208121600 +0800">
+	<programme channel="兵器科技" start="20260209120900 +0800" stop="20260209121600 +0800">
 		<title lang="zh">魅力精品榜-2026-1</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208121600 +0800" stop="20260208124700 +0800">
-		<title lang="zh">兵工启示录-2020-53</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208124700 +0800" stop="20260208131700 +0800">
-		<title lang="zh">军火之源-2020-37</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208131700 +0800" stop="20260208134800 +0800">
-		<title lang="zh">武器装备背后的故事-2021-23</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208134800 +0800" stop="20260208143800 +0800">
-		<title lang="zh">大家谈-2024-7</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208143800 +0800" stop="20260208150400 +0800">
-		<title lang="zh">军事纪实-2025-40</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208150400 +0800" stop="20260208152900 +0800">
-		<title lang="zh">军事纪实-2025-41</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208152900 +0800" stop="20260208155600 +0800">
-		<title lang="zh">军武零距离-2025-17(4K)</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208155600 +0800" stop="20260208162400 +0800">
-		<title lang="zh">军武零距离-2025-18(4K)</title>
-	</programme>
-	<programme channel="兵器科技" start="20260208162400 +0800" stop="20260208165400 +0800">
+	<programme channel="兵器科技" start="20260209121600 +0800" stop="20260209124700 +0800">
 		<title lang="zh">兵工启示录-2020-54</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208165400 +0800" stop="20260208172500 +0800">
+	<programme channel="兵器科技" start="20260209124700 +0800" stop="20260209131700 +0800">
 		<title lang="zh">军火之源-2020-35</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208172500 +0800" stop="20260208175500 +0800">
+	<programme channel="兵器科技" start="20260209131700 +0800" stop="20260209134800 +0800">
 		<title lang="zh">武器装备背后的故事-2019-133</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208175500 +0800" stop="20260208184700 +0800">
+	<programme channel="兵器科技" start="20260209134800 +0800" stop="20260209143800 +0800">
 		<title lang="zh">大家谈-2024-8</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208184700 +0800" stop="20260208191400 +0800">
+	<programme channel="兵器科技" start="20260209143800 +0800" stop="20260209150500 +0800">
 		<title lang="zh">军事科技-2026-1</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208191400 +0800" stop="20260208194100 +0800">
+	<programme channel="兵器科技" start="20260209150500 +0800" stop="20260209153200 +0800">
 		<title lang="zh">军事科技-2026-2</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208194100 +0800" stop="20260208203500 +0800">
+	<programme channel="兵器科技" start="20260209153200 +0800" stop="20260209162700 +0800">
 		<title lang="zh">讲武堂-2025-32</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208203500 +0800" stop="20260208210600 +0800">
+	<programme channel="兵器科技" start="20260209162700 +0800" stop="20260209165700 +0800">
 		<title lang="zh">兵工启示录-2020-55</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208210600 +0800" stop="20260208213600 +0800">
+	<programme channel="兵器科技" start="20260209165700 +0800" stop="20260209172800 +0800">
 		<title lang="zh">军火之源-2020-32</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208213600 +0800" stop="20260208220700 +0800">
+	<programme channel="兵器科技" start="20260209172800 +0800" stop="20260209175900 +0800">
 		<title lang="zh">武器装备背后的故事-2019-134</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208220700 +0800" stop="20260208225700 +0800">
+	<programme channel="兵器科技" start="20260209175900 +0800" stop="20260209185000 +0800">
 		<title lang="zh">大家谈-2024-9</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208225700 +0800" stop="20260208232300 +0800">
+	<programme channel="兵器科技" start="20260209185000 +0800" stop="20260209191500 +0800">
 		<title lang="zh">军事纪实-2025-113</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208232300 +0800" stop="20260208234800 +0800">
+	<programme channel="兵器科技" start="20260209191500 +0800" stop="20260209194100 +0800">
 		<title lang="zh">军事纪实-2025-117</title>
 	</programme>
-	<programme channel="兵器科技" start="20260208234800 +0800" stop="20260208001000 +0800">
+	<programme channel="兵器科技" start="20260209194100 +0800" stop="20260209200300 +0800">
 		<title lang="zh">军营的味道-2025-52</title>
+	</programme>
+	<programme channel="兵器科技" start="20260209200300 +0800" stop="20260209205600 +0800">
+		<title lang="zh">军营的味道-2026-1</title>
+	</programme>
+	<programme channel="兵器科技" start="20260209205600 +0800" stop="20260209212600 +0800">
+		<title lang="zh">军火之源-2019-201</title>
+	</programme>
+	<programme channel="兵器科技" start="20260209212600 +0800" stop="20260209215600 +0800">
+		<title lang="zh">军火之源-2019-202</title>
+	</programme>
+	<programme channel="兵器科技" start="20260209215600 +0800" stop="20260209222600 +0800">
+		<title lang="zh">武器装备背后的故事-2019-137</title>
+	</programme>
+	<programme channel="兵器科技" start="20260209222600 +0800" stop="20260209225700 +0800">
+		<title lang="zh">武器装备背后的故事-2020-17</title>
+	</programme>
+	<programme channel="兵器科技" start="20260209225700 +0800" stop="20260209234700 +0800">
+		<title lang="zh">大家谈-2024-10</title>
+	</programme>
+	<programme channel="兵器科技" start="20260209234700 +0800" stop="20260209001300 +0800">
+		<title lang="zh">军事纪实-2025-42</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210001300 +0800" stop="20260210080200 +0800">
+		<title lang="zh">军事纪实-2025-48</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210080200 +0800" stop="20260210083200 +0800">
+		<title lang="zh">兵工启示录-2020-54</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210083200 +0800" stop="20260210090300 +0800">
+		<title lang="zh">军火之源-2020-35</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210090300 +0800" stop="20260210093300 +0800">
+		<title lang="zh">武器装备背后的故事-2019-133</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210093300 +0800" stop="20260210102400 +0800">
+		<title lang="zh">大家谈-2024-8</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210102400 +0800" stop="20260210105100 +0800">
+		<title lang="zh">军事科技-2026-1</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210105100 +0800" stop="20260210111800 +0800">
+		<title lang="zh">军事科技-2026-2</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210111800 +0800" stop="20260210121200 +0800">
+		<title lang="zh">讲武堂-2025-32</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210121200 +0800" stop="20260210121900 +0800">
+		<title lang="zh">魅力精品榜-2026-1</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210121900 +0800" stop="20260210125000 +0800">
+		<title lang="zh">兵工启示录-2020-55</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210125000 +0800" stop="20260210132000 +0800">
+		<title lang="zh">军火之源-2020-32</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210132000 +0800" stop="20260210135100 +0800">
+		<title lang="zh">武器装备背后的故事-2019-134</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210135100 +0800" stop="20260210144100 +0800">
+		<title lang="zh">大家谈-2024-9</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210144100 +0800" stop="20260210150700 +0800">
+		<title lang="zh">军事纪实-2025-113</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210150700 +0800" stop="20260210153200 +0800">
+		<title lang="zh">军事纪实-2025-117</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210153200 +0800" stop="20260210155400 +0800">
+		<title lang="zh">军营的味道-2025-52</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210155400 +0800" stop="20260210164700 +0800">
+		<title lang="zh">军营的味道-2026-1</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210164700 +0800" stop="20260210171700 +0800">
+		<title lang="zh">军火之源-2019-201</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210171700 +0800" stop="20260210174800 +0800">
+		<title lang="zh">军火之源-2019-202</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210174800 +0800" stop="20260210181800 +0800">
+		<title lang="zh">武器装备背后的故事-2019-137</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210181800 +0800" stop="20260210184900 +0800">
+		<title lang="zh">武器装备背后的故事-2020-17</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210184900 +0800" stop="20260210194000 +0800">
+		<title lang="zh">大家谈-2024-10</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210194000 +0800" stop="20260210200500 +0800">
+		<title lang="zh">军事纪实-2025-42</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210200500 +0800" stop="20260210210200 +0800">
+		<title lang="zh">军事纪实-2025-48</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210210200 +0800" stop="20260210213200 +0800">
+		<title lang="zh">军火之源-2019-203</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210213200 +0800" stop="20260210220200 +0800">
+		<title lang="zh">军火之源-2019-204</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210220200 +0800" stop="20260210223200 +0800">
+		<title lang="zh">武器装备背后的故事-2019-144</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210223200 +0800" stop="20260210230300 +0800">
+		<title lang="zh">武器装备背后的故事-2019-145</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210230300 +0800" stop="20260210235300 +0800">
+		<title lang="zh">大家谈-2024-12</title>
+	</programme>
+	<programme channel="兵器科技" start="20260210235300 +0800" stop="20260210080200 +0800">
+		<title lang="zh">讲武堂-2025-18</title>
 	</programme>
 </tv>
