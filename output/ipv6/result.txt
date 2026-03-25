@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-23 18:58:51,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-03-25 18:53:51,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央視頻道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
@@ -84,7 +84,6 @@ CETV-4,https://iptv.catvod.com/live.php?id=CETV4$订阅源
 ☘️黑龍江頻道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4$订阅源
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 
@@ -106,5 +105,4 @@ CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90$订阅�
 CCTV-15,https://www.freetv.top/migu/673168223.m3u8?migutoken=4e8d5766579c6bef231494cabd07e5b49d965804790214280c9791e4c331fd90311cb62ea43d3a1899229bfa57be4afe5a567b32a6b78153fc9a9801e28a39435e078b48c211e71d6083519be4$订阅源
 
 🏛經典劇場,#genre#
-封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
 封神榜,https://live.metshop.top/huya/29465849$订阅源
