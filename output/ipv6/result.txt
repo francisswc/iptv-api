@@ -1,13 +1,9 @@
 🕘️更新时间,#genre#
-2026-08-13 19:11:46,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
+2026-08-15 18:32:12,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
 
 📺央視頻道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8$订阅源
-CCTV-6,https://www.9kds.com/d/1905.php?t=1&id=LIVEOYY31H24H48NE&kl=www.9kds.com$订阅源
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8$订阅源
-CETV-1,https://live.chinacert.cftest5.cn/cnmg/live/923287154$订阅源
-CETV-2,https://live.chinacert.cftest5.cn/cnmg/live/923287211$订阅源
-CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
 
 💰央視付費頻道,#genre#
 
@@ -16,6 +12,7 @@ CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
 ☘️廣東頻道,#genre#
 
 ☘️浙江頻道,#genre#
+浙江生活,http://ls.qingting.fm/live/1099.m3u8$订阅源
 
 ☘️北京頻道,#genre#
 
@@ -61,7 +58,6 @@ CETV-4,https://live.chinacert.cftest5.cn/cnmg/live/923287339$订阅源
 ☘️黑龍江頻道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4$订阅源
 J2,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2$订阅源
 Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 
@@ -79,6 +75,6 @@ Viutv,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv$订阅源
 
 🏛經典劇場,#genre#
 封神榜,http://live.ottiptv.cc/huya/29465849$订阅源
-封神榜,https://live.metshop.top/huya/29465849$订阅源
 封神榜,https://live.ottiptv.cc/huya/29465849$订阅源
 封神榜,http://cdn.jdshipin.com:8880/huya.php?id=29465849$订阅源
+封神榜,https://live.metshop.top/huya/29465849$订阅源
